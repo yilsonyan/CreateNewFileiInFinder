@@ -4,7 +4,9 @@ Windows、Linux-Centos7等系统，都可以很方便的用鼠标右键在当前
 
 苹果 Mac OS 的[奥卡姆剃刀](https://baike.baidu.com/item/%E5%A5%A5%E5%8D%A1%E5%A7%86%E5%89%83%E5%88%80%E5%8E%9F%E7%90%86/10900565?fr=aladdin)设计，使得当前目录新建文件、打开命令行等操作非常繁琐。
 
-（可参见：[苹果 Mac 在当前目录打开命令窗口](https://github.com/yilsonyan/OpenTerminalHere)）
+本项目特点：使用 ruby 脚本语言编写，无后台驻留进程，无后台内存消耗。
+
+(令可参见本人另一个项目：[苹果 Mac 在当前目录打开命令窗口](https://github.com/yilsonyan/OpenTerminalHere))
 
 ## 一、安装
 
