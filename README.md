@@ -10,13 +10,13 @@ Windows、Linux-Centos7等系统，都可以很方便的用鼠标右键在当前
 
 - 步骤一：安装Afred
 
-    此文解决方案是使用Afred的工作流 Workflow，依耐 Afred 运行。可参照：
+    此文解决方案是使用Afred的工作流 Workflow，依耐 Alfred 运行。可参照：
 
     > [MAC必备效率工具Alfred的介绍](https://www.jianshu.com/p/cf16b2c973e9)
     >
     > [MAC必备效率工具Alfred的一键式安装](https://www.jianshu.com/p/d21f8302f70f)
 
-- 步骤二：下载此项目中『在当前窗口新建文件.alfredworkflow』脚本，拖动到 Afred 插件中，并为将此脚设置启动快捷键
+- 步骤二：下载此项目中『在当前窗口新建文件.alfredworkflow』脚本，拖动到 Alfred 插件中，并为将此脚设置启动快捷键
 
 ![install](README.assets/install.jpg)
 
